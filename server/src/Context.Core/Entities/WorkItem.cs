@@ -1,4 +1,4 @@
-namespace server;
+namespace Context.Core.Entities;
 
 public class WorkItem 
 {

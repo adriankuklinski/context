@@ -1,6 +1,7 @@
+using Context.Core.Entities;
 using Microsoft.AspNetCore.Mvc;
 
-namespace server.Controllers;
+namespace Context.API.Controllers;
 
 [ApiController]
 [Route("[controller]")]
