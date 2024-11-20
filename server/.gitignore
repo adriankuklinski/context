@@ -1,0 +1,15 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+
+# NuGet packages
+packages/
+*.nupkg
